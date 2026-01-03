@@ -3,7 +3,7 @@
 
 📧 Email Me 👉 **bikashsahani750@gmail.com** for Collaboration, Projects, or Anything Tech! 🚀
 
-- 🔭 **Currently working on:** Learning Management System (LMS)  
+- 🔭 **Currently working on:** MediConnect – AI-Powered Rural Health Assistance System  
 - 🌱 **Currently learning:** React.js  
 - 👯 **Looking to collaborate on:** Open-source & full-stack projects  
 - 🤔 **Looking for help with:** Scalable project architectures & DevOps workflows  
